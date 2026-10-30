@@ -13,6 +13,10 @@ export const metadata: Metadata = {
   description:
     "Drive conversions with our performance-based promotional campaigns. ROI-focused marketing solutions for B2B companies. Start your free trial today.",
   keywords: "performance campaigns, conversion optimization, ROI marketing, promotional campaigns, B2B sales tools",
+  icons: {
+    icon: [{ url: "/icon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/apple-icon.jpg", type: "image/jpeg" }],
+  },
   openGraph: {
     title: "Quokka Marketing Solutions - Performance-Based Promotional Campaigns",
     description:
